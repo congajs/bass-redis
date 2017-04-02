@@ -1,0 +1,32 @@
+{
+  "name": "bass-redis",
+  "version": "1.0.0",
+  "description": "Redis Adapter for Bass.js",
+  "directories": {
+    "test": "test"
+  },
+  "main": "",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/congajs/bass-redis.git"
+  },
+  "keywords": [
+    "orm",
+    "odm",
+    "nedb"
+  ],
+  "author": "Marc Roulias",
+  "license": "MIT",
+  "dependencies": {
+    "async": "2.0.1",
+    "lodash": "*",
+    "redis": "2.6.2"
+  },
+  "devDependencies": {
+
+  },
+  "readmeFilename": "README.md"
+}
